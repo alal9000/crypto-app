@@ -1,0 +1,3 @@
+# Example of writing data to a file
+# with open('output2.json', 'w') as json_file:
+#   json.dump(data_list, json_file, indent=4)
